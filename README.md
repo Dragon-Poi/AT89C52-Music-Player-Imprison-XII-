@@ -39,13 +39,13 @@ This project is for learning purposes, inspired by the tutorial series from **Bi
 ---
 
 ## 成品演示 / Demo
-👉 [点击查看演示视频 / Watch the demo here](https://your-demo-link.com)  
+👉 [演示视频] https://www.bilibili.com/video/BV1eVarzqEiM/?share_source=copy_web&vd_source=47b2cca0c4d4b27b476037c3f69259e5
 
 ---
 
 ## 参考课程 / Reference
 本项目参考了 **bilibili 江协科技** 的单片机教学视频：  
-👉 [课程链接 / Course link](https://your-course-link.com)  
+👉 [课程链接] https://www.bilibili.com/video/BV1Mb411e7re?spm_id_from=333.788.videopod.episodes&vd_source=7a541018eb5ebc845239fd84603bcc6b&p=25
 
 ---
 
