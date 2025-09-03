@@ -19,7 +19,7 @@ This project is for learning purposes, inspired by the tutorial series from **Bi
 ---
 
 ## 硬件需求 / Hardware Requirements
-- 普中 A2 开发板（AT89C52 MCU）  
+- 普中 A2 开发板（STC89C52/AT89C52 MCU）  
 - 蜂鸣器 / 小音箱  
 - Micro USB 转串口（用于下载 HEX 文件）  
 
